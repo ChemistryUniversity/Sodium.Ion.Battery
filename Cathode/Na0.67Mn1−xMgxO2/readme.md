@@ -5,5 +5,6 @@ https://en.wikipedia.org/wiki/Sodium-ion_battery#cite_note-51
 
 https://doi.org/10.1039%2Fc4ee00465e
 
-quote:
+# Wiki:
+[quote:](https://en.wikipedia.org/wiki/Sodium-ion_battery#Oxides_2)
 >A Na0.67Mn1−xMgxO2 cathode material exhibited a discharge capacity of 175 mAh/g for Na0.67Mn0.95Mg0.05O2. This cathode contained only abundant elements.[51]
